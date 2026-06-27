@@ -28,3 +28,23 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+/coverage
+.phpunit.cache/
+
+# Environment lainnya
+.env.local
+.env.staging
+.env.testing
