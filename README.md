@@ -1,2 +1,0 @@
-# askotama
-website askotama
